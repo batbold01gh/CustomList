@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Custom</string>
+    <string name="avengers">Avengers</string>
+    <string name="delete">Delete</string>
+    <string name="spiderman">Spiderman</string>
+    <string name="todo">TODO</string>
+</resources>
